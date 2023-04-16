@@ -9,4 +9,4 @@ Please free feel to check our documentation for more details.
 Due to the time limit, staff pages and customers page share different logic in this project, like they kinda work separately but I think it works great as a prototype.
 
 You can kindly click see a quick demo with this link https://drive.google.com/drive/folders/1kG5WfhyF3vHJsJW-31zPEyZ53JmX4jUu?usp=share_link. 
-Or check our document for what it did. Except of staff.mp4 and  customer.mp4, other demo is demonstrated by me.
+Or check our document for what it did. Except of staff.mp4 and  customer.mp4, other demo are the parts that done and demonstrated by me.
