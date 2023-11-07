@@ -1,4 +1,4 @@
-# ITP4511
+# ITP4511 Project, please check "AssignmentCode" folder for the codes
  
 This project is an IVE group project to create a booking website using J2EE.
 MVC model,JavaBean,JSP Action, JSP, JCDB, servlet are used in this project.
